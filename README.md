@@ -7,7 +7,7 @@ Biography_of_Hero_Agar
 EE599 final project built with socket.IO and HTML5 canvas on top of NodeJS.
 
 ##  Basics
-- Use keyboard ``↑` , `←` , `↓`,  `→` to move the pot.
+- Use keyboard `↑`,  ` ←`, `↓`,  `→` to move the pot.
 - Move the mouse to control the pot.
 - Eat food and fight with enemies in order to make your character bigger and stronger.
 - Variable **mass** is the number of food that had been eaten.
@@ -35,7 +35,9 @@ gulp run
 ```
 
 ## Play Game
-The game will then be accessible at `http://localhost:3000`. The default port is `3000`.
-Enter "localhost:3000" into browser.
+- The game will then be accessible at `http://localhost:3000`. 
+- The default port is `3000`.
+- Enter "localhost:3000" into browser.
+
 ---
 
