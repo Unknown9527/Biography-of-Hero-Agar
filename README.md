@@ -41,9 +41,10 @@ gulp run
 
 ---
 
-### Project description
-`https://docs.google.com/document/d/1Ig2O2auGBCsBoM_8mNWApctIKSJ4gacpkNmW_5qVP_Q/edit`
-
 ### Introduction Video
-`https://www.youtube.com/watch?v=DdsqrOJ5ep0&feature=youtu.be`
+`https://www.youtube.com/watch?v=DdsqrOJ5ep0`
 
+### Introduction Video 2
+`https://www.youtube.com/watch?v=84XXR6PjdW8&t=68s`
+
+---
