@@ -1,10 +1,10 @@
 # EE599_Final_Project
-Yingnan Wang &amp; Jiawei Wu 's EE599 final project 
+Yingnan Wang &amp; Jiawei Wu 's project 
 
 Biography_of_Hero_Agar
 =========================
 
-EE599 final project built with socket.IO and HTML5 canvas on top of NodeJS.
+Thie project built with socket.IO and HTML5 canvas on top of NodeJS.
 
 ##  Basics
 - Use keyboard `↑`,  ` ←`, `↓`,  `→` to move the pot.
