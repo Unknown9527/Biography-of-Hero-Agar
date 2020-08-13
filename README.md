@@ -1,4 +1,4 @@
-# EE599_Final_Project
+# Project
 Yingnan Wang &amp; Jiawei Wu 's project 
 
 Biography_of_Hero_Agar
